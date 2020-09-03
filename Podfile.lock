@@ -1,0 +1,20 @@
+PODS:
+  - Flightmap-SDK-iOS (1.0.1):
+    - MapboxMobileEvents (= 0.10.2)
+  - MapboxMobileEvents (0.10.2)
+
+DEPENDENCIES:
+  - Flightmap-SDK-iOS
+
+SPEC REPOS:
+  trunk:
+    - Flightmap-SDK-iOS
+    - MapboxMobileEvents
+
+SPEC CHECKSUMS:
+  Flightmap-SDK-iOS: 7b4ca0ec5e69153e3ce48abbc086acaa58ef96e8
+  MapboxMobileEvents: 2bc0ca2eedb627b73cf403258dce2b2fa98074a6
+
+PODFILE CHECKSUM: a765503ad4e4c5345b115077f674924c394f63a8
+
+COCOAPODS: 1.9.3
